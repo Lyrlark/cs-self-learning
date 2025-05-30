@@ -19,6 +19,7 @@ Berkeley 计算机系教授 Christos Papadimitriou 曾说过一句半开玩笑�
 - 学习 LaTeX 最好的方式当然是写论文，不过从一门数学课入手用 LaTeX 写作业也是一个不错的选择。
 
 [Overleaf]: https://www.overleaf.com
+[loongtex]: https://app.loongtex.com
 [Part-1]: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1
 [Part-2]: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2
 [Part-3]: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3
